@@ -1,0 +1,4 @@
+Code style: clear, with comments explaining operations
+commit messages: short, shoud sum up the changes so it is immediately clear what was changed in the new version
+branch naming conventions: 
+pull request processes:
